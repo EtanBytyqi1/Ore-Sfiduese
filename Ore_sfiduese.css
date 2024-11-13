@@ -1,0 +1,48 @@
+.page-contain{
+    display: flex;
+    justify-content: space-evenly;
+    height: 500px;
+    align-items: center ;
+    
+}
+
+body{
+    background-color: lightblue;
+}
+
+.data-card{
+   background-color: white;
+   width: 259px;
+   padding: 20px;
+   height: 280px;
+   border-radius: 10px;
+   text-decoration: none;
+   transition: 0.3s;
+  
+
+   
+}
+
+
+
+.data-card:hover{
+    background-color: violet;
+    color: white;
+    box-shadow: 0px 8px 16px 0px rgba(0.5,0.5,0.5,0.5);
+    
+    
+
+}
+
+p{
+    color: white;
+    
+}
+
+h3{
+    font-size: 40px;
+}
+
+
+
+
